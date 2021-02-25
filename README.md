@@ -1,2 +1,2 @@
-# -100DaysOfDSA
+# #100DaysOfDSAChallenge
 #100DaysOfCodeChallenge  #100DaysOfDataStructureAlgorithmChallenge
